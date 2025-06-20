@@ -1,0 +1,16 @@
+###
+POST http://localhost:3000/auth/signup
+
+###
+POST http://localhot:3000/auth/login
+	
+
+{ "email": string, "password": string }
+
+
+###
+POST http://localhost:3000/todos
+
+{
+  
+}
